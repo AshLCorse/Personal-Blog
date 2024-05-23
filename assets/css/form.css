@@ -1,0 +1,64 @@
+body {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  padding: 1%;
+  background-color: dimgray;
+}
+
+body header {
+  margin: 1%;
+}
+
+.body-header {
+  color: seagreen;
+  background-color: darkgray;
+  padding: 1%;
+}
+
+body header h1 {
+}
+
+main {
+}
+
+main div {
+}
+
+main div section {
+  margin: 1%;
+  padding: 2%;
+  background-color: darkgreen;
+}
+
+main div section header {
+}
+
+.main-header {
+  color: steelblue;
+}
+
+main div section p {
+  padding: 1%;
+}
+
+label {
+  margin: 1%;
+  padding: 0.4%;
+  background-color: darkslateblue;
+}
+
+.form-input {
+}
+
+.submit-btn {
+}
+
+footer a {
+  margin: 1%;
+  padding: 1%;
+  color: darkslateblue;
+}
+.footer {
+  background-color: olivedrab;
+}
