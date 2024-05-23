@@ -1,0 +1,66 @@
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: wheat;
+}
+
+body header {
+  margin: 1%;
+  padding: 1%;
+}
+
+.body-header {
+  background-color: antiquewhite;
+}
+
+body header h1 {
+}
+
+nav {
+}
+
+.nav {
+  background-color: antiquewhite;
+}
+
+nav ul {
+}
+
+nav ul li {
+}
+
+.back {
+}
+
+.dark-mode {
+}
+
+main {
+}
+
+main div {
+  margin: 1%;
+  padding: 1%;
+  background-color: cornflowerblue;
+}
+
+main div section {
+}
+
+main div section h3 {
+  color: wheat;
+}
+
+main div section h2 {
+}
+
+main div section p {
+  background-color: wheat;
+  color: cornflowerblue;
+}
+
+footer a {
+  color: darkcyan;
+}
+.footer {
+}
