@@ -10,10 +10,12 @@
 </html>
 
 <body>
+  <script src="/assets/js/form.js"></script>
   <header>
     <h1 class="body-header" style="text-align: center">Ash's Blog ✨</h1>
-
-    <script src="script.js"></script>
+    <ul>
+      <li id="dark-mode"><button>🌞🌚</button></li>
+    </ul>
   </header>
   <main>
     <div>
@@ -48,10 +50,10 @@
               type="text"
               class="form-input"
               name="blog-post"
-              placeholder="Enter Blog Post here."
+              placeholder="Enter Blog Post text here."
           /></label>
         </p>
-        <p class="submit-btn"><button>Submit</button></p>
+        <p id="submit-btn" class="submit-btn"><button>Submit</button></p>
       </section>
     </div>
   </main>
